@@ -13,3 +13,4 @@ const setBothFromF = value => {
 
 celsius.addEventListener('input', e => setBothFromC(e.target.value));
 fahrenheit.addEventListener('input', e => setBothFromF(e.target.value));
+
